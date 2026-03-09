@@ -4,7 +4,7 @@
 ![example](./docs/example.png)
 </p>
 
-|[Website](https://appsinacup.com)|[Discord](https://discord.gg/56dMud8HYn)
+|[Website](https://appsinacup.com)|[Discord](https://discord.gg/v649emcpAu)
 |-|-|
 
 <p align="center">
